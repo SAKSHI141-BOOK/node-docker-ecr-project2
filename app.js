@@ -7,7 +7,8 @@ const server = http.createServer((req, res) => {
     "Content-Type": "text/html"
   });
 
-  res.end(`<h1>project 2!!!</h1>`);
+  res.end(`<h1>!!!project 2 complete!!!
+    node-docker-ecr </h1>`);
 });
 
 server.listen(PORT, "0.0.0.0", () => {
