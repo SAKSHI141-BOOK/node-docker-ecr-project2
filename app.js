@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     "Content-Type": "text/html"
   });
 
-  res.end(`<h1>!!!project 2 complete!!!
+  res.end(`<h1>!!!project complete!!!
     node-docker-ecr </h1>`);
 });
 
